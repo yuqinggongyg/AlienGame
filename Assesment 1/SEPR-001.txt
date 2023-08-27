@@ -1,0 +1,34 @@
+Website (2/3): 
+Overall well-designed website. However, the main content of the website, which is the assessment documents is hidden in the top menu, and cannot be easily found in the main page of the website.
+
+Requirements (15/22): 
+Good SSON.
+
+You refer to IEEE but you are not specific. Which concepts have you exactly used? How?
+
+Requirements are vague, e.g. FR_CHANGE_GAME_MODES. What does "easy" mean? How can it be assessed?
+
+There are missing requirements. How many patrols should there be in the map, how frequently they respawn, etc.
+
+Use cases are missing. Are there any risks or requirement restrictions? For example, should the game run on PCs, macs or mobile?
+
+Architecture (18/25): 
+Some justification should have been provided on why two different UML tools were used. Good use of state machines to record core behaviour in the game. The class diagrams are well thought out overall, but the font size could have been bigger. There's no distinction between current/max health for entities. The associations of Projectile could both be of type Ship. Appropriate justification and traceability back to requirements.
+
+Method selection and planning (5/20): 
+* Software Engineering Methods. The quality of the writing of this part of the report is poor. Method selection is confusing and provides contradictory information. First, it mentions that Scrum is the team's choice. Then, it is mentioned that the team will steer away from plan-driven methods, but then the report mentions that the project will follow RUP, which is precisely a plan-driven method. Moreover, the text interleaves the description of tools used with the rationale for team organization, adding to the confusion. Clearer structure, separating these two items would improve much the quality of the report. The report does a reasonable job at justifying the selections made for tools. It would have been good to know if any alternatives were considered in some cases. There is some wasted space with figures capturing a screenshot from Trello and the waterfall model that do not really add up anything relevant to the report. The assessment is not about copying material that already known from the lectures. It is about describing things in the specific setting of the kind of project and team that is working on it.
+
+* Team organization. The team's organization still presents plenty of room for improvement. Role assignments are not discussed and justified. Who is in charge of what, and why? How were these roles assigned? The Gantt chart is not readable.
+
+Risk assessment and mitigation (17/20): 
+Clear overview of the rationale for risk analysis. However, the document could do a better job describing the process followed, and it does not provide any indication of the research done on this aspect. Business risks are a little too far fetched and unrealistic. E.g., Chances of Java becoming obsolete during the lifetime of the project or government policy making this type of game illegal are negligible.
+
+Self-assessment (0/10): 
+Jack Kershaw: 10
+Max Lloyd: 10
+James Hau: 10
+Yuqing Gong: 10
+William Marr: 10
+Peter Clark: 10
+Tom Richardson: 1
+
